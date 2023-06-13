@@ -1,0 +1,15 @@
+a = "halo"
+
+b = "halo 2"
+
+if a == "halo":
+
+	print("ini if")
+
+elif b == "halo 2":
+
+	print(" ini else")
+
+else:
+
+	print("bukan")
