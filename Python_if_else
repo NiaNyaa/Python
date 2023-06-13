@@ -12,4 +12,4 @@ elif b == "halo 2":
 
 else:
 
-	print("bukan")
+	print("ini else")
