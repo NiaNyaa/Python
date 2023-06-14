@@ -8,7 +8,7 @@ if a == "halo":
 
 elif b == "halo 2":
 
-	print(" ini else")
+	print(" ini elif")
 
 else:
 
