@@ -1,8 +1,4 @@
-dictionary = {
-
-	"nama": "ikhsan",	"prodi": "informatika"
-
-}
+dictionary = { "nama": "ikhsan", "prodi": "informatika"}
 
 # menampilkan salah satu
 
