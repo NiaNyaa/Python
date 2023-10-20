@@ -4,11 +4,12 @@
 - Fungsi
 - Class
 - If else
-- Index
+- Index dan Slice
 - Slice
 - Lambda
 - Input output
 - List
+- Dictionary
 - Import
 - Looping
 - Try Except
@@ -16,3 +17,5 @@
 - With Open
 - Random
 - Time
+- Module
+- Global dan Local Scope
