@@ -2,6 +2,7 @@
 - Print
 - Variabel
 - Fungsi
+- Class
 - If else
 - Index
 - Slice
@@ -13,3 +14,5 @@
 - Try Except
 - Return
 - With Open
+- Random
+- Time
