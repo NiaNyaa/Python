@@ -5,7 +5,6 @@
 - Class
 - If else
 - Index dan Slice
-- Slice
 - Lambda
 - Input output
 - List
