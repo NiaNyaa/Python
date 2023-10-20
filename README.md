@@ -1,4 +1,15 @@
 # Yang sudah saya pelajari
+- Print
 - Variabel
 - Fungsi
 - If else
+- Index
+- Slice
+- Lambda
+- Input output
+- List
+- Import
+- Looping
+- Try Except
+- Return
+- With Open
