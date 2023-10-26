@@ -17,4 +17,4 @@
 - Random
 - Time
 - Module
-- Global dan Local Scope
+- Global variabel
