@@ -21,3 +21,4 @@
 - Extend (Menggabungkan List)
 - Identifikasi tipe data
 - RegEx
+- *Argv
