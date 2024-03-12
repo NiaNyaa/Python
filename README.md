@@ -22,3 +22,4 @@
 - Identifikasi tipe data
 - RegEx
 - *Argv
+- **kwargs
