@@ -24,3 +24,4 @@
 - *Argv
 - **kwargs
 - positional-only parameter
+- elapsed time
